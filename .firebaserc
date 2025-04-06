@@ -1,5 +1,8 @@
 {
   "projects": {
-    "default": "fireship-lessons"
-  }
+    "default": "githubaction-d131e",
+    "staging": "githubaction-d131e"
+  },
+  "targets": {},
+  "etags": {}
 }
